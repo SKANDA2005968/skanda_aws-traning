@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Amaazon.in — Sample Amazon-style Store (PHP)
 
 A mini e-commerce site inspired by Amazon.in, built in plain PHP + SQLite.
@@ -82,3 +83,11 @@ the homepage and product pages.
   works fully offline).
 - Not affiliated with, endorsed by, or connected to Amazon.com, Inc. in
   any way — brand names, product names and prices are fictional.
+=======
+# skanda_aws-traning
+
+first i have a doubt on what is purpose of this and clarify the doubt then when i create an account it some as error like There is something wrong with your request. Clear your cookies, check your request, and try again. If this issue continues, contact.
+This is first commit to a GitHub branch.  
+This has to be done. 
+When I do the Aws repository i have done some mistakes in the website and i think i am doing wrong way to make this repository
+>>>>>>> cd1dcffb2ab26d66260814a7571bc5bd54ccb8fc
